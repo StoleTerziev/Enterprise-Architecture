@@ -1,7 +1,7 @@
 # Appointment Reservation System
 ![alt text](images/EA-Project.jpg)
 
-**1. Generate Token**
+**1. Generate Token** 
 - POST http://localhost:8080/auth/token
   <br/>
 ```
